@@ -1,0 +1,49 @@
+Assignment 1:
+
+name = "Megha"
+age = 21
+height =5.9
+is_student = True
+print("Name:", name, "| Data type:", type(name))
+print("Age:", age, "| Data type:", type(age))
+print("Height:", height, "| Data type:", type(height))
+print("Is Student:", is_student, "| Data type:", type(is_student))
+
+Assignment 2:
+
+name = input("Enter your name: ")
+favorite_number =input("Enter your favorite number: ")
+print("Hello " + name + ", your favorite number is " + favorite_number + ".")
+print("Data type of name:", type(name))
+print("Data type of favorite number:", type(favorite_number))
+num=int(favorite_number)
+print("datatye:",num)
+
+Assignment 3:
+a=input("enter first number")
+b=input("enter second number")
+c=int(a)
+d=int(b)
+sum=c+d
+diff=c-d
+product=c*d
+quotient=c/d
+print("sum:",sum)
+print("difference:",diff)
+print("product",product)
+print("quotient:",quotient)
+Assignment 4:
+price=input("enter the price of the item")
+quantity=input("enter the quantity of the item")
+pri=int(price)
+qua=int(quantity)
+total=pri*qua
+print("total cost :",total)
+
+Assignment 5:
+price=input("enter the price of the item")
+quantity=input("enter the quantity of the item")
+pri=int(price)
+qua=int(quantity)
+total=pri*qua
+print("total cost :",total)
